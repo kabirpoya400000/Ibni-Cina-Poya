@@ -1,0 +1,7 @@
+{
+  "name": "IbnCina-Poya",
+  "description": "Traditional Persian Medicine & Herbal Encyclopedia",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
